@@ -1,0 +1,21 @@
+{
+  "name": "com.iron-mountain.waves",
+  "version": "1.0.0",
+  "displayName": "Waves",
+  "description": "Procedural Waves.",
+  "unity": "2019.1",
+  "keywords": [
+    "vfx"
+  ],
+  "author": "Chris Monteferrante <ludachrismonte@gmail.com>",
+  "type": "tool",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iron-Mountain-Software/waves.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Iron-Mountain-Software/waves/issues"
+  },
+  "homepage": "https://github.com/Iron-Mountain-Software/waves#readme"
+}

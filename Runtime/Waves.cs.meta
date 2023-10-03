@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c04c6f14009994b71a4df208c8bf16ad
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wavesSettings: {fileID: 11400000, guid: 68aedea0f73414e7c95d1c9799d0a88f, type: 2}
+  - colorSettings: {fileID: 11400000, guid: 363630eedeb2d47599df8712db7257c3, type: 2}
+  - transparencySettings: {fileID: 11400000, guid: 74c70fe8d2b0d46839521a28234b21ef,
+      type: 2}
+  - shader: {fileID: 4800000, guid: dc680e860b8024b16870c06ee277a5c7, type: 3}
+  - viewer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
